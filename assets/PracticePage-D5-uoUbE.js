@@ -1,4 +1,4 @@
-import{c as k,r as i,t as H,g as Z,j as e,T as J,d as Q,e as X,h as ee,B as R,M as te}from"./index-D2c-BL4d.js";import{A as se}from"./AIChatPanel-DIMvHDca.js";import{u as re}from"./useSpeech-ClnfKWVa.js";import{u as ne}from"./useProgress-4HcDp6nB.js";import{C as F}from"./chevron-right-DyYr0lQ1.js";import{R as ie}from"./rotate-ccw-CIEQ5dWh.js";import"./useQuery-Bwh2nY--.js";/**
+import{c as k,r as i,t as H,g as Z,j as e,T as J,d as Q,e as X,h as ee,B as R,M as te}from"./index-7GexVrSg.js";import{A as se}from"./AIChatPanel-CvQBZSO7.js";import{u as re}from"./useSpeech-BIX9iSmD.js";import{u as ne}from"./useProgress-DXbziCGW.js";import{C as F}from"./chevron-right-BwFsISoI.js";import{R as ie}from"./rotate-ccw-Ce0C_Z4W.js";import"./useQuery-mokiSO3H.js";/**
  * @license lucide-react v0.462.0 - ISC
  *
  * This source code is licensed under the ISC license.

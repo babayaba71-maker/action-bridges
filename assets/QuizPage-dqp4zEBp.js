@@ -1,4 +1,4 @@
-import{c as X,r,g as ne,s as oe,j as e,m as S,B as $,A as ie,G as ce}from"./index-D2c-BL4d.js";import{u as le}from"./useSpeech-ClnfKWVa.js";import{c as K}from"./confetti.module-ONDKWxYZ.js";import{A as de}from"./arrow-left-Cb8pxcM8.js";import{Z as q}from"./zap-BbTc7hdE.js";import{R as me}from"./rotate-ccw-CIEQ5dWh.js";import{V as ue}from"./volume-2-BSqIog0K.js";import{C as xe}from"./circle-check-DjEWecjN.js";import{C as fe}from"./circle-x-We8-cwj-.js";/**
+import{c as X,r,g as ne,s as oe,j as e,m as S,B as $,A as ie,G as ce}from"./index-7GexVrSg.js";import{u as le}from"./useSpeech-BIX9iSmD.js";import{c as K}from"./confetti.module-ONDKWxYZ.js";import{A as de}from"./arrow-left-y4UgZty8.js";import{Z as q}from"./zap-DEZOlS2b.js";import{R as me}from"./rotate-ccw-Ce0C_Z4W.js";import{V as ue}from"./volume-2-DN0UjeQ0.js";import{C as xe}from"./circle-check-ChCepKZs.js";import{C as fe}from"./circle-x-D-1eN3UK.js";/**
  * @license lucide-react v0.462.0 - ISC
  *
  * This source code is licensed under the ISC license.
